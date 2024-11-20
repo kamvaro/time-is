@@ -1,0 +1,11 @@
+! Title: time.is
+! Description: because we hate ad blockers.
+! Author: kamvaro
+
+! time.is
+time.is###attention
+time.is###toppromotion
+time.is###user
+
+! timeanddate.com
+www.timeanddate.com###mpo
